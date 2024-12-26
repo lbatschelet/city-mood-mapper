@@ -21,3 +21,8 @@ When reporting issues, provide as much detail as possible:
 - Steps to reproduce the issue
 - Expected behavior
 - Actual behavior
+
+## Branching Strategy
+- **Main Branch**: Production-ready code.
+- **Development Branch**: Active development.
+- **Feature Branches**: Short-lived branches for specific features (`feature/feature-name`).
